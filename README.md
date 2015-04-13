@@ -7,3 +7,11 @@ To install on Linux, run these commands:
     $ ibus restart
 
 Other Unix systems or IBus setups might require a path other than `/usr/share`; see [HowToCreateATableForIBusTable](https://code.google.com/p/ibus/wiki/HowToCreateATableForIBusTable) for more detailed instructions.
+
+The layout
+----------
+You'll need to read this in Shwa font to make any sense of it. Half letters written as stressed vowels unless there is no vowel form, in which case they are given the straight bottom. Latin letters represent unused keys.
+
+    |q||||t|y||||p|
+    |||||||||||
+     |z|x|c||b|||,|.|
