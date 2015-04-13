@@ -10,7 +10,7 @@ Other Unix systems or IBus setups might require a path other than `/usr/share`; 
 
 The layout
 ----------
-You'll need to read this in Shwa font to make any sense of it. Half letters written as stressed vowels unless there is no vowel form, in which case they are given the straight bottom. Latin letters represent unused keys.
+You'll need to read this in Shwa font to make any sense of it. It's probably just displayed as mojibake on GitHub. Half letters written as stressed vowels unless there is no vowel form, in which case they are given the straight bottom. Latin letters represent unused keys. I will eventually make an image to replace this.
 
     |q||||t|y||||p|
     |||||||||||
