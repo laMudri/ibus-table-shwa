@@ -47,10 +47,10 @@ AUTHOR = James Wood <lamudri@gmail.com>
 
 ### Prompt string to be displayed in the status area, CN will be replaced by
 ### the gettext tools in runtime as 中.
-STATUS_PROMPT = SH
+STATUS_PROMPT = Sh
 
 ### Valid input chars.
-VALID_INPUT_CHARS = eruiasdfghjkl; cvbnm
+VALID_INPUT_CHARS = weruioasdfghjkl; vbn
 
 ### Layout
 LAYOUT = us
@@ -87,7 +87,7 @@ DYNAMIC_ADJUST = FALSE
 
 ### If true then the lookup table will always be shown if there is any candidate phrase.
 ### Otherwise the lookup table won't be shown unless the user requires it by moving the preedit caret left.
-ALWAYS_SHOW_LOOKUP = TRUE
+ALWAYS_SHOW_LOOKUP = FALSE
 
 ### Some characters whose frequencies should be fix all the time, e.g.
 ### some punctuations
@@ -396,6 +396,7 @@ d		1
 v		1
 o		1
 n		1
+ 		1
 a		1
 g		1
 l		1
