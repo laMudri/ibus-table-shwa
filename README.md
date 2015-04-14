@@ -2,6 +2,8 @@ An input method for [Shwa script](http://shwa.org/). Requires ibus-table (check 
 
 To install on Linux, run these commands:
 
+    $ git clone https://github.com/laMudri/ibus-table-shwa.git
+    $ cd ibus-table-shwa
     $ sudo ibus-table-createdb -n /usr/share/ibus-table/tables/shwa.db -s shwa.txt
     $ sudo cp shwa.svg /usr/share/ibus-table/icons/shwa.svg
     $ ibus restart
