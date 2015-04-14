@@ -50,7 +50,7 @@ AUTHOR = James Wood <lamudri@gmail.com>
 STATUS_PROMPT = Sh
 
 ### Valid input chars.
-VALID_INPUT_CHARS == weruioasdfghjkl;vnm `1234567890-=!@#$%^&*()zxcZXCbB[],./<>?
+VALID_INPUT_CHARS == qwertyuiopasdfghjkl;vnmQTYP `1234567890-=!@#$%^&*()zxcZXCbB[],./<>?'"\|
 
 ### Layout
 LAYOUT = us
@@ -425,6 +425,11 @@ m		1
 0		0
 -		0
 =		0
+|		0
+q		0
+t		0
+y		0
+p		0
 
 ### Decimal:
 !		0
@@ -437,6 +442,10 @@ $		0
 *		0
 (		0
 )		0
+Q		0
+T		0
+Y		0
+P		0
 
 ### Mathematical operators:
 z		0
@@ -445,16 +454,20 @@ c		0
 Z		0
 X		0
 C		0
-b              0
-B              0
-[              0
-]              0
-,              0
-.              0
-/              0
-<              0
->              0
-?              0
+b		0
+B		0
+[		0
+]		0
+,		0
+.		0
+/		0
+<		0
+>		0
+?		0
+'		0
+"		0
+\		0
+### 
 END_TABLE
 
 ### Since some input methods use different table for every character to make
