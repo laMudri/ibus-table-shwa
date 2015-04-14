@@ -389,7 +389,7 @@ ms		0
 mf		0
 
 ### The logo:
-sl             0
+sl		0
 
 ### For pretty previews:
 d		1
