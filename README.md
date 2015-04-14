@@ -12,6 +12,6 @@ Other Unix systems or IBus setups might require a path other than `/usr/share`; 
 
 The layout
 ----------
-Half letters written as stressed vowels unless there is no vowel form, in which case they are given the straight bottom. Template [from Wikimedia](https://commons.wikimedia.org/wiki/File:Blank_BRSB_Keyboard_Layout.svg) (GFDL).
+Half letters written as stressed vowels unless there is no vowel form, in which case they are given the straight bottom. Decimal digits are accessed via shift + Qwerty digit (exactly like programmers' Dvorak) Template [from Wikimedia](https://commons.wikimedia.org/wiki/File:Blank_BRSB_Keyboard_Layout.svg) (GFDL).
 
 ![layout](layout.png)
