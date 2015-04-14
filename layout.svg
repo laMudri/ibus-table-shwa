@@ -500,15 +500,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="164.64323"
-       y="112.99046"
+       x="185.83231"
+       y="114.04992"
        id="text4261-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4263-8"
-         x="164.64323"
-         y="112.99046"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65px;font-family:'Dushan Shwa Alphabet';-inkscape-font-specification:'Dushan Shwa Alphabet'">         </tspan></text>
+         x="185.83231"
+         y="114.04992"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.25px;font-family:'Dushan Shwa Alphabet';-inkscape-font-specification:'Dushan Shwa Alphabet'">         </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -737,5 +737,41 @@
          x="636.72485"
          y="84.033745"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.25px;font-family:'Dushan Shwa Alphabet';-inkscape-font-specification:'Dushan Shwa Alphabet'"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="491.58627"
+       y="112.90731"
+       id="text4557"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4559"
+         x="491.58627"
+         y="112.90731"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.25px;font-family:'Dushan Shwa Alphabet';-inkscape-font-specification:'Dushan Shwa Alphabet'">        </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="153.63458"
+       y="83.205223"
+       id="text4261-2-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4263-8-3"
+         x="153.63458"
+         y="83.205223"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.25px;font-family:'Dushan Shwa Alphabet';-inkscape-font-specification:'Dushan Shwa Alphabet'">         </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="453.83228"
+       y="82.894051"
+       id="text4261-2-7-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4263-8-3-6"
+         x="453.83228"
+         y="82.894051"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.25px;font-family:'Dushan Shwa Alphabet';-inkscape-font-specification:'Dushan Shwa Alphabet'">         </tspan></text>
   </g>
 </svg>
