@@ -14,7 +14,10 @@
    id="svg4642"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="layout.svg">
+   sodipodi:docname="layout.svg"
+   inkscape:export-filename="/home/james/ibus-shwa/layout.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4644">
     <inkscape:perspective
@@ -40,7 +43,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.94388307"
-     inkscape:cx="450.79736"
+     inkscape:cx="430.66775"
      inkscape:cy="150.745"
      inkscape:current-layer="layer2"
      id="namedview4646"
@@ -518,5 +521,17 @@
          x="328.54218"
          y="233.89508"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65px;font-family:'Dushan Shwa Alphabet';-inkscape-font-specification:'Dushan Shwa Alphabet'">    </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="13.772893"
+       y="52.518475"
+       id="text4301"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4303"
+         x="13.772893"
+         y="52.518475"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65px;font-family:'Dushan Shwa Alphabet';-inkscape-font-specification:'Dushan Shwa Alphabet'">            </tspan></text>
   </g>
 </svg>
