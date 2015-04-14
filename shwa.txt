@@ -50,7 +50,7 @@ AUTHOR = James Wood <lamudri@gmail.com>
 STATUS_PROMPT = Sh
 
 ### Valid input chars.
-VALID_INPUT_CHARS == qwertyuiopasdfghjkl;vnmQTYP `1234567890-=!@#$%^&*()zxcZXCbB[],./<>?'"\|
+VALID_INPUT_CHARS == qwertyuiopasdfghjkl;zxcvbnm,./QWERTYUIOPZXCBM<>? `1234567890-=!@#$%^&*()[]'"\|
 
 ### Layout
 LAYOUT = us
@@ -469,8 +469,13 @@ B		0
 '		0
 "		0
 \		0
-### Not yet implemented: 
-### I'll probably put them on the top row letters.
+
+W		0
+E		0
+R		0
+U		0
+I		0
+O		0
 END_TABLE
 
 ### Since some input methods use different table for every character to make
