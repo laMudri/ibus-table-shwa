@@ -14,4 +14,4 @@ The layout
 ----------
 Half letters written as stressed vowels unless there is no vowel form, in which case they are given the straight bottom. Template [from Wikimedia](https://commons.wikimedia.org/wiki/File:Blank_BRSB_Keyboard_Layout.svg) (GFDL).
 
-![layout](master/layout.png)
+![layout](layout.png)
