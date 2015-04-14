@@ -50,7 +50,7 @@ AUTHOR = James Wood <lamudri@gmail.com>
 STATUS_PROMPT = Sh
 
 ### Valid input chars.
-VALID_INPUT_CHARS == weruioasdfghjkl;vnm `1234567890-=!@#$%^&*()
+VALID_INPUT_CHARS == weruioasdfghjkl;vnm `1234567890-=!@#$%^&*()zxcZXCbB[],./<>?
 
 ### Layout
 LAYOUT = us
@@ -437,6 +437,24 @@ $		0
 *		0
 (		0
 )		0
+
+### Mathematical operators:
+z		0
+x		0
+c		0
+Z		0
+X		0
+C		0
+b              0
+B              0
+[              0
+]              0
+,              0
+.              0
+/              0
+<              0
+>              0
+?              0
 END_TABLE
 
 ### Since some input methods use different table for every character to make
