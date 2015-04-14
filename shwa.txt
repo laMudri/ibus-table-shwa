@@ -50,7 +50,7 @@ AUTHOR = James Wood <lamudri@gmail.com>
 STATUS_PROMPT = Sh
 
 ### Valid input chars.
-VALID_INPUT_CHARS == qwertyuiopasdfghjkl;zxcvbnm,./QWERTYUIOPZXCBM<>? `1234567890-=!@#$%^&*()[]'"\|
+VALID_INPUT_CHARS == qwertyuiopasdfghjkl;zxcvbnm,./QWERTYUIOPZXCB<>? `1234567890-=!@#$%^&*()[]'"\|
 
 ### Layout
 LAYOUT = us
