@@ -410,6 +410,8 @@ s		1
 f		1
 u		1
 m		1
+h		1
+k		1
 
 ### Balanced dozenal:
 `		0
@@ -467,7 +469,8 @@ B		0
 '		0
 "		0
 \		0
-### 
+### Not yet implemented: 
+### I'll probably put them on the top row letters.
 END_TABLE
 
 ### Since some input methods use different table for every character to make
