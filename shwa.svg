@@ -1,84 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="29.962025mm"
-   height="20.879927mm"
-   viewBox="0 0 106.16466 73.983994"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="shwa.svg">
-  <defs
-     id="defs4" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="5.5312498"
-     inkscape:cx="52.317901"
-     inkscape:cy="38.695779"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer3"
-     showgrid="false"
-     fit-margin-top="2"
-     fit-margin-left="2"
-     fit-margin-right="2"
-     fit-margin-bottom="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="727"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
-     inkscape:window-maximized="1" />
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Layer 2"
-     style="display:inline"
-     transform="translate(-42.983672,-65.102632)">
-    <a
-       transform="translate(-138.28573,-207.79076)"
-       id="a3412">
-      <path
-         style="fill:#000000"
-         d="m 189.84187,331.75188 14.32049,-14.32048 c 2.34961,1.93298 6.47496,4.45622 10.07007,6.06736 l -16.36021,15.63073 z m 44.49497,-27.40297 -7.03391,6.14442 c -3.7861,-1.06987 -7.75678,-3.05695 -10.34033,-4.9633 l 17.32709,-18.22969 44.44566,44.44566 -8.40608,8.04477 z"
-         id="path3410"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccccccccc" />
-    </a>
-    <path
-       style="fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 91.444071,117.53736 C 72.943839,115.80395 57.576363,102.79819 51.982218,84.140116 51.234624,81.646675 49.832416,72.936717 50.104922,72.479098 c 0.08882,-0.149152 2.755274,-0.271186 5.925459,-0.271186 l 5.763971,0 0,1.118343 c 0,2.076282 1.485725,8.427696 2.594346,11.090724 3.723841,8.945066 12.419298,17.078871 21.270062,19.896191 6.502496,2.72828 16.4086,2.22402 16.4086,2.22402 l 8.17897,8.30087 c -5.04039,2.49306 -11.724347,3.26753 -18.802259,2.6993 z"
-       id="path4221"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cssscsscccc" />
-    <path
-       style="opacity:0.95;fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 117.87886,98.115221 2.03512,-2.196592 c 5.80354,-6.264002 8.8362,-12.191726 9.83613,-19.22598 0.71743,-5.046911 0.7517,-4.484737 0.7517,-4.484737 0,0 11.56201,0.122034 11.5599,0.271186 -0.002,0.149153 -0.32128,2.305085 -0.70927,4.790961 -1.47026,9.419931 -2.9924,13.378488 -8.03539,20.897278 -2.39443,3.569953 -5.98637,7.683413 -6.68556,7.656243 z"
-       id="path4223"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccsccsscc" />
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 158.7 158.7" enable-background="new 0 0 158.7 158.7" xml:space="preserve">
+<g id="Layer_0">
+</g>
+<g id="Layer_1">
+	<polyline fill="none" stroke="#000000" stroke-width="11.3386" points="28.3,113.4 79.4,62.4 130.4,113.4 	"/>
+</g>
+<g id="Layer_2">
+	<path fill="none" stroke="#00007F" stroke-width="11.3386" d="M28.3,45.4c0,28.2,22.8,51,51,51c28.2,0,51-22.8,51-51"/>
+</g>
+<g id="Layer_3">
+	<line fill="none" stroke="#000000" stroke-width="11.3386" x1="96.4" y1="79.4" x2="113.4" y2="96.4"/>
+</g>
+<g id="Layer_5">
+</g>
 </svg>
