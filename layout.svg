@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="layout.svg"
-   inkscape:export-filename="/home/james/ibus-shwa/layout.png"
+   inkscape:export-filename="/home/james/repos/ibus-table-shwa/layout.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -43,16 +43,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.94388307"
-     inkscape:cx="430.66775"
-     inkscape:cy="150.745"
+     inkscape:cx="425.37048"
+     inkscape:cy="148.62609"
      inkscape:current-layer="layer2"
      id="namedview4646"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="727"
+     inkscape:window-height="743"
      inkscape:window-x="0"
-     inkscape:window-y="23"
-     inkscape:window-maximized="1"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:snap-bbox-midpoints="false"
@@ -496,7 +496,7 @@
          id="tspan4263"
          x="118.65877"
          y="174.35559"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65px;font-family:'Dushan Shwa Alphabet';-inkscape-font-specification:'Dushan Shwa Alphabet';fill:#000080">         </tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65px;font-family:'Dushan Shwa Alphabet';-inkscape-font-specification:'Dushan Shwa Alphabet';fill:#000080">         </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

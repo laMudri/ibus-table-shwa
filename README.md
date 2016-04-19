@@ -12,7 +12,7 @@ Other Unix systems or IBus setups might require a path other than `/usr/share`; 
 
 The layout
 ----------
-Half letters written as stressed vowels unless there is no vowel form, in which case they are given the straight bottom. Decimal digits are accessed via shift + Qwerty digit (exactly like programmers' Dvorak, incidentally). The key immediately left of backspace is the backslash key. On your keyboard, it could be between shift and Z or above return.
+Half letters written as stressed vowels. Decimal digits are accessed via shift + Qwerty digit (exactly like programmers' Dvorak, incidentally). The key immediately left of backspace is the backslash key. On your keyboard, it could be between shift and Z or above return.
 
 ![layout](layout.png)
 
