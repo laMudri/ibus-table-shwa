@@ -8,7 +8,7 @@ To install on Linux, run these commands:
     $ make install
     $ ibus restart
 
-Other Unix systems or IBus setups might require a path other than `/usr/share`; see [HowToCreateATableForIBusTable](https://code.google.com/p/ibus/wiki/HowToCreateATableForIBusTable) for more detailed instructions.
+Other Unix systems or IBus setups might require a path other than `/usr/share` in the Makefile; see [HowToCreateATableForIBusTable](https://code.google.com/p/ibus/wiki/HowToCreateATableForIBusTable) for more detailed instructions. A Nix package is easy to write, and I'll share mine if desired.
 
 The layout
 ----------
