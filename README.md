@@ -4,8 +4,8 @@ To install on Linux, run these commands:
 
     $ git clone https://github.com/laMudri/ibus-table-shwa.git
     $ cd ibus-table-shwa
-    $ sudo ibus-table-createdb -n /usr/share/ibus-table/tables/shwa.db -s shwa.txt
-    $ sudo cp shwa.svg /usr/share/ibus-table/icons/shwa.svg
+    $ make
+    $ make install
     $ ibus restart
 
 Other Unix systems or IBus setups might require a path other than `/usr/share`; see [HowToCreateATableForIBusTable](https://code.google.com/p/ibus/wiki/HowToCreateATableForIBusTable) for more detailed instructions.
